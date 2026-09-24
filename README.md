@@ -29,14 +29,14 @@ Aplikasi ini dibangun menggunakan **Streamlit** dan siap dijalankan secara lokal
 
 ---
 
-## 🚀 Panduan Menjalankan Aplikasi di Lokal
+## Panduan Menjalankan Aplikasi di Lokal
 
-Ikuti langkah-langkah berikut untuk menjalankan aplikasi pada komputer Anda:
+Ikuti langkah-langkah berikut untuk menjalankan aplikasi di PC Masing - masing:
 
 ### 1. Clone Repositori
 ```bash
-git clone https://github.com/USERNAME/NAMA-REPO.git
-cd NAMA-REPO
+git clone https://github.com/MUHAMMADEFAN11/TugasAkhirDS-P4
+cd TugasAkhirDS-P4
 ```
 
 ### 2. Buat & Aktifkan Virtual Environment (Disarankan)
@@ -65,7 +65,7 @@ Setelah perintah dijalankan, browser Anda akan otomatis terbuka ke alamat `http:
 
 ---
 
-## 🛠️ Teknologi & Pustaka
+## 🛠️ Tech & Library
 
 * **Bahasa**: Python
 * **Data Processing & Modeling**: Pandas, NumPy, Scikit-Learn
