@@ -20,7 +20,7 @@ Aplikasi ini dibangun menggunakan **Streamlit** dan siap dijalankan secara lokal
 ## 📂 Struktur File Repositori
 
 ```text
-├── projek_tips_crisp_dm.ipynb  # Notebook eksplorasi data, preprocessing, & training model
+├── p4-projek.ipynb  # Notebook eksplorasi data, preprocessing, & training model
 ├── best_tip_model.pkl          # Model terlatih terbaik yang siap digunakan untuk inferensi
 ├── app.py                      # Aplikasi dashboard interaktif berbasis Streamlit
 ├── requirements.txt            # Daftar pustaka / dependensi Python
