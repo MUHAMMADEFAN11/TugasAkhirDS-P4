@@ -1,4 +1,4 @@
-# 🍽️ Restaurant Tip Prediction App (CRISP-DM)
+# Restaurant Tip Prediction App (CRISP-DM)
 
 Proyek ini merupakan implementasi Machine Learning end-to-end berbasis metodologi **CRISP-DM** (*Cross-Industry Standard Process for Data Mining*) untuk memprediksi besaran tip restoran berdasarkan faktor tagihan, demografi pengunjung, waktu kunjungan, dan ukuran rombongan.
 
@@ -74,6 +74,3 @@ Setelah perintah dijalankan, browser Anda akan otomatis terbuka ke alamat `http:
 * **Penyimpanan Model**: Pickle / Joblib
 
 ---
-
-## 👨‍💻 Kontributor
-* **Nama Anda** - [Profil GitHub](https://github.com/USERNAME)
